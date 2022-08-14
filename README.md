@@ -145,6 +145,9 @@ $ gcloud container clusters delete my-cluster
 
 ## 参考
 
+- REST API の作成
+https://spring.pleiades.io/guides/gs/rest-service/
+
 - Kubernetes Engine: Qwik Start  
 https://www.cloudskillsboost.google/focuses/878?parent=catalog
 
