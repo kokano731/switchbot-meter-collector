@@ -11,6 +11,10 @@ SwitchBot温湿度計で取得した温度と湿度を収集するWebアプリ�
 - ビルドシステム: Gradle
 
 プロジェクトの雛型作成に使用したSpring Initializrの設定。
+
+Spring Initializr  
+https://start.spring.io/
+
 ![spring_initializr.png](image/spring_initializr.png)
 
 ### プログラム構成
